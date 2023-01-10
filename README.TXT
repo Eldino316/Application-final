@@ -5,7 +5,7 @@ Instalation :
 -copiez le contenu du dossier module dans C:\Snort\App
 -copiez le fichier local.rules dans C:\Snort\rules\ ----> on remplace le fichier local.rules dans ce dossier par ce local.rules 
 
-Mot de passe authentification : RGASYSTEME1234
+Mot de passe authentification : ----------
 
 Lancement:
 
